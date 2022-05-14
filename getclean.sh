@@ -1,5 +1,6 @@
 #
 
+find . -name '*~1' -delete
 pwd=$(pwd)
 cd /media/$USER/4TB/repos/github.com/token-list/src/tokens
 top=$(git rev-parse --show-toplevel)
@@ -11,7 +12,7 @@ cd $pwd
 git add *.json
 git commit -a -m "token list on $(date)"
 git push
-cd $top
+cd $top/src/tokens
 
 git checkout -f origin/main solana.tokenlist.json
 ed solana.tokenlist.json <<EOT
