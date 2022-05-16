@@ -25,13 +25,16 @@ c
 w solana.tokenlist.json
 q
 EOT
+# remove trailing \n
+chompnl solana.tokenlist.json
 git diff solana.tokenlist.json
 colored vi -d solana.tokenlist.json solana.tokenlist.json~
 #gvim --servername SOLLIST --remote-wait-tab-silent solana.tokenlist.json
 msg=$(git diff origin/main solana.tokenlist.json | grep name)
 echo "msg: $msg"
+tokenid=$(cat $pwd/token-item.json | json_xs -t string -e '$_ = $_->{address}');
 
-git commit -a -m "$msg on $(date +%Y-%m-%d)"
+git commit -a -m "$msg, $tokenid on $(date +%Y-%m-%d)"
 fork=$(cat $pwd/fork.yml | cut -d' ' -f2)
 git push $fork
 if [ "$fork" = "fork" ]; then
@@ -39,6 +42,7 @@ if [ "$fork" = "fork" ]; then
 else
   echo fork: fork > $pwd/fork.yml
 fi
+
 
 exit $?
 1;
