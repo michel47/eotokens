@@ -1,23 +1,22 @@
     {
       "chainId": 103,
-      "address": "CaRBon66o8vaibpjDdAGz1Gt9GetvSFnXVUP1DoJE1L3",
-      "symbol": "kg",
-      "name": "Fractional Carbon Credit",
-      "decimals": 9,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/carbon/carbon-credit.svg",
+      "address": "Co2FP2AdUaKmUMLg4aGRTTNqKAQEwgAgAh5RVFXJhzar",
+      "symbol": "kgCO2eq",
+      "name": "Carbon Footprint",
+      "decimals": 6,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/kgCO2e/carbon-weight.svg",
       "tags": [
-        "carbon-coin",
         "green-coin",
         "community-token",
         "utility-token",
         "colored-token"
       ],
       "extensions": {
-        "coingeckoId": "wrapped-bitcoin",
-        "description": "Proof of Carbon Sequestration to be used as Carbon credit (unit: 1kg CO2e)",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf",
-         "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
-         "imageUrl": "https://bafybeid7dw4tdtbuj5pn4gqlqooajzfaecujcupwzgu2bp6p6z46qlv2g4.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/carbon/"
+        "coingeckoId": "polkadot",
+        "description": "Accounting for CO2eq emissions",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmepRU1Rr2SLURq9m2AkiyC1E8hRMBzetrq5TrQxCxNh8E/whitepaper.pdf",
+         "telegram": "https://t.me/cryptolake2",
+         "imageUrl": "https://bafybeidyuuvtfjbkz3pivhtc5ttdi6up3evhrxjkbd6fpuwla3hoj6x3lu.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/kgCO2e/"
       }
     }
