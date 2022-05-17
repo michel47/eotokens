@@ -1,10 +1,10 @@
     {
       "chainId": 103,
-      "address": "Co2FP2AdUaKmUMLg4aGRTTNqKAQEwgAgAh5RVFXJhzar",
-      "symbol": "kgCO2eq",
-      "name": "Carbon Footprint",
-      "decimals": 6,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/kgCO2e/carbon-weight.svg",
+      "address": "nchrLQC3YT6kepn9JvepyDDwRMQDyZXqQ29P85Q22qf",
+      "symbol": "a-btc",
+      "name": "Anchored Bitcoin",
+      "decimals": 10,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/anchorcoin/anchorcoin.svg",
       "tags": [
         "green-coin",
         "community-token",
@@ -13,10 +13,11 @@
       ],
       "extensions": {
         "coingeckoId": "polkadot",
-        "description": "Accounting for CO2eq emissions",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmepRU1Rr2SLURq9m2AkiyC1E8hRMBzetrq5TrQxCxNh8E/whitepaper.pdf",
+        "description": "",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmXwMs5cRBesM4fWY6Sdqz9unkMUfCNmmypj19c1JvBDYk/whitepaper.pdf",
          "telegram": "https://t.me/cryptolake2",
-         "imageUrl": "https://bafybeidyuuvtfjbkz3pivhtc5ttdi6up3evhrxjkbd6fpuwla3hoj6x3lu.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/kgCO2e/"
+         "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
+         "imageUrl": "https://bafybeignxjpwr5lp7zcnxlitnz2kf65zclybls2hxlwc7rgzmqp7ys54ta.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/anchorcoin/"
       }
     }

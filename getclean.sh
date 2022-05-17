@@ -26,7 +26,7 @@ w solana.tokenlist.json
 q
 EOT
 # remove trailing \n
-chompnl solana.tokenlist.json
+perl -S chompnl.pl solana.tokenlist.json
 git diff solana.tokenlist.json
 colored vi -d solana.tokenlist.json solana.tokenlist.json~
 #gvim --servername SOLLIST --remote-wait-tab-silent solana.tokenlist.json
