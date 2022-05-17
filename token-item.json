@@ -1,23 +1,23 @@
     {
       "chainId": 103,
-      "address": "nchrLQC3YT6kepn9JvepyDDwRMQDyZXqQ29P85Q22qf",
-      "symbol": "a-btc",
-      "name": "Anchored Bitcoin",
+      "address": "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
+      "symbol": "btc-z",
+      "name": "Bitcoin CarbonZero",
       "decimals": 10,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/anchorcoin/anchorcoin.svg",
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcz/btcz.svg",
       "tags": [
-        "green-coin",
+        "zerocarbon-coin",
         "community-token",
         "utility-token",
         "colored-token"
       ],
       "extensions": {
         "coingeckoId": "polkadot",
-        "description": "",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmXwMs5cRBesM4fWY6Sdqz9unkMUfCNmmypj19c1JvBDYk/whitepaper.pdf",
+        "description": "Removing Carbon in cryptocurrencies one coin at a time",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmYaMUFdqHmTk4V3HLfHwK3pq8d3Tqpk8s96ftb7WUkS1w/whitepaper.pdf",
          "telegram": "https://t.me/cryptolake2",
          "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
-         "imageUrl": "https://bafybeignxjpwr5lp7zcnxlitnz2kf65zclybls2hxlwc7rgzmqp7ys54ta.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/anchorcoin/"
+         "imageUrl": "https://bafybeiaey7aarrnghsu6ziv6cofpqftj22c4ssyf4d74feccfgkmsw63du.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/btcz/"
       }
     }
