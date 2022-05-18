@@ -1,23 +1,24 @@
     {
       "chainId": 103,
-      "address": "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
-      "symbol": "btc-z",
-      "name": "Bitcoin CarbonZero",
-      "decimals": 10,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcz/btcz.svg",
+      "address": "CaRBon66o8vaibpjDdAGz1Gt9GetvSFnXVUP1DoJE1L3",
+      "address": "CcREDkwUxBVoazUe4a8Lw9Jrb483EVpmsw9bzscp7se2",
+      "symbol": "kg",
+      "name": "Carbon Credit",
+      "decimals": 9,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/carbon/carbon-credit.svg",
       "tags": [
-        "zerocarbon-coin",
+        "carbon-coin",
+        "green-coin",
         "community-token",
         "utility-token",
         "colored-token"
       ],
       "extensions": {
-        "coingeckoId": "polkadot",
-        "description": "Removing Carbon in cryptocurrencies one coin at a time",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmYaMUFdqHmTk4V3HLfHwK3pq8d3Tqpk8s96ftb7WUkS1w/whitepaper.pdf",
-         "telegram": "https://t.me/cryptolake2",
+        "coingeckoId": "solana",
+        "description": "Proof of Carbon Sequestration to be used as Carbon credit (unit: 1kg CO2e)",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNwPaqvPMZKxEDZB8vr63wTmf5bZ2JocYY7HamWY8ws3E/whitepaper.pdf",
          "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
-         "imageUrl": "https://bafybeiaey7aarrnghsu6ziv6cofpqftj22c4ssyf4d74feccfgkmsw63du.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/btcz/"
+         "imageUrl": "https://bafybeid7dw4tdtbuj5pn4gqlqooajzfaecujcupwzgu2bp6p6z46qlv2g4.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/carbon/"
       }
     }
