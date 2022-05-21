@@ -1,11 +1,10 @@
     {
       "chainId": 103,
-#      "address": "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
-      "address": "CZero7niHAHbW29oVf2XoCwDWznBaDbd2NxRq9zXfGW4",
-      "symbol": "btc-z",
-      "name": "CarbonZero BTC",
-      "decimals": 10,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcz/btc-z.svg",
+      "address": "yca52CtBFG9skA8FVLfvsVcbFZMfUWvmyBt4hGWzVuF",
+      "symbol": "YCA",
+      "name": "YC Apocalypse",
+      "decimals": 1,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/YCA/yca-coin.svg",
       "tags": [
         "green-coin",
         "community-token",
@@ -13,12 +12,12 @@
         "colored-token"
       ],
       "extensions": {
-        "coingeckoId": "bitcoin",
-        "description": "Removing Carbon in cryptocurrencies one coin at a time",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmYaMUFdqHmTk4V3HLfHwK3pq8d3Tqpk8s96ftb7WUkS1w/whitepaper.pdf",
+        "coingeckoId": "polkadot",
+        "description": "The YCA token is part of our REGS program at EO Technologies to move beyond YC apocalypse",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmNe4W3y2NHEpRChzPT6GjXoHUAQCAwWLMLMLzkijUCQKq/whitepaper.pdf",
          "telegram": "https://t.me/cryptolake2",
          "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
-         "imageUrl": "https://bafybeiaey7aarrnghsu6ziv6cofpqftj22c4ssyf4d74feccfgkmsw63du.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/btcz/"
+         "imageUrl": "https://bafybeidzazuktrg74jmbz67jpddi34chsldu2mxyrbncbx6ocvubdmdpyy.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/YCA/"
       }
     }
