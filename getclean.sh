@@ -34,15 +34,18 @@ msg=$(git diff origin/main solana.tokenlist.json | grep name)
 echo "msg: $msg"
 tokenid=$(cat $pwd/token-item.json | json_xs -t string -e '$_ = $_->{address}');
 
-git commit -a -m "$msg, $tokenid on $(date +%Y-%m-%d)"
+git commit -a -uno --no-ahead-behind -m "$msg, $tokenid on $(date +%Y-%m-%d)"
 fork=$(cat $pwd/fork.yml | cut -d' ' -f2)
 echo git push $fork
 git push $fork
 if [ "$fork" = "fork" ]; then
   echo fork: fork2 > $pwd/fork.yml
+  xdg-open https://github.com/DrI-T/token-list/pulls
 else
   echo fork: fork > $pwd/fork.yml
+  xdg-open https://github.com/Doctor-I-T/token-list/pulls
 fi
+
 
 
 exit $?
