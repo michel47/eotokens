@@ -1,10 +1,10 @@
     {
       "chainId": 103,
-      "address": "CRLKh4simiVwwtgyNL21EGmixS5viCETUDyhfiKZXZXj",
-      "symbol": "CRPTLK",
-      "name": "cryptolake",
-      "decimals": 9,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/cryptolake/cryptolake.svg",
+      "address": "treessKmT2gWMhn2hiQ5QMuTPCdCLZ3wpVdE3SUB8Yp",
+      "symbol": "trees",
+      "name": "Forest Trees",
+      "decimals": 0,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/forest/tree.svg",
       "tags": [
         "green-coin",
         "community-token",
@@ -13,11 +13,11 @@
       ],
       "extensions": {
         "coingeckoId": "polkadot",
-        "description": "A token for CryptoLake membership --@cryptolake2",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmUbroCsNCYvDsHiAx2etSw5xfHpkFUpqum5hLajnoxd5k/whitepaper.pdf",
+        "description": "Living Tree Accountancy Coin --@cryptolake2",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmYGRYVdvxxfL7B2jjHWss1FyU9fhQNFLihsWENCK6n5YP/whitepaper.pdf",
          "telegram": "https://t.me/cryptolake2",
          "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
-         "imageUrl": "https://bafybeibdnlyepxwur4twznpbriutw24qjzdgxslh6k7jg455d2sbzn3gie.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/cryptolake/"
+         "imageUrl": "https://bafybeieoh4lkabcaenwb255hmvuvqzec6rql5khnzb3xyn43jjozftynwu.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/forest/"
       }
     }
