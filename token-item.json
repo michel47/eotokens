@@ -1,10 +1,10 @@
     {
       "chainId": 103,
-      "address": "treessKmT2gWMhn2hiQ5QMuTPCdCLZ3wpVdE3SUB8Yp",
-      "symbol": "trees",
-      "name": "Forest Trees",
-      "decimals": 0,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/forest/tree.svg",
+      "address": "CZeroeJm4gfmdeL5vUy5VLUJm3aqRf2dgs7fz6DhC6vs",
+      "symbol": "BTC-Z",
+      "name": "Bitcoin CarbonZero (dev)",
+      "decimals": 10,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/btcz/btc-z.svg",
       "tags": [
         "green-coin",
         "community-token",
@@ -12,12 +12,12 @@
         "colored-token"
       ],
       "extensions": {
-        "coingeckoId": "polkadot",
-        "description": "Living Tree Accountancy Coin --@cryptolake2",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmYGRYVdvxxfL7B2jjHWss1FyU9fhQNFLihsWENCK6n5YP/whitepaper.pdf",
+        "coingeckoId": "bitcoin",
+        "description": "Removing Carbon in cryptocurrencies one coin at a time --@cryptolake2",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmRwfstMcXG28Emuo9eHwvnkeAuQrWanaKx7YPT5YASYa1/whitepaper.pdf",
          "telegram": "https://t.me/cryptolake2",
          "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
-         "imageUrl": "https://bafybeieoh4lkabcaenwb255hmvuvqzec6rql5khnzb3xyn43jjozftynwu.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/forest/"
+         "imageUrl": "https://bafybeigchm62vwln6pdy6ausntwbwjbnjkqkgcj6ltdp222n3lnmetrpdy.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/btcz/"
       }
     }
