@@ -1,10 +1,10 @@
     {
       "chainId": 103,
-      "address": "cfpsVJTbr5hhnmjmRV9HDm8jWw4kxumgQu74S9USX78",
-      "symbol": "tons",
-      "name": "Carbon Footprint Standard (dev)",
-      "decimals": 12,
-       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/CFS/cfprint.svg",
+      "address": "deepgZLqNTZgXAuMBshg4xip4ioEWLYtmmFLGqW8qLi",
+      "symbol": "seed",
+      "name": "GrassRoot Climate Justice",
+      "decimals": 0,
+       "logoURI": "https://cdn.jsdelivr.net/gh/PurpleZone/NFTs@latest/grassroot/deeproot.svg",
       "tags": [
         "green-coin",
         "community-token",
@@ -13,11 +13,11 @@
       ],
       "extensions": {
         "coingeckoId": "polkadot",
-        "description": "We want to define a standard for reporting emriession so we avoid double credits --@cryptolake2",
-        "whitepaper": "https://gateway.ipfs.io/ipns/QmdpuWueP9Fv1C3FThRNTGxnWyM7orz8rHmQ8L8YvdUxJo/whitepaper.pdf",
+        "description": "By going back to our roots we can address the urgent crisis before our paralized governments --@cryptolake2",
+        "whitepaper": "https://gateway.ipfs.io/ipns/QmeibxNiV6svDnJnc1UiZBGyZea9n8A4RyVZfv2RzUNaC7/whitepaper.pdf",
          "telegram": "https://t.me/cryptolake2",
          "linkedin": "https://www.linkedin.com/company/eco-organic-technology",
-         "imageUrl": "https://bafybeida3n3qqvzyuathjngiqaaepyqec6ex47ngac5to2uzwv7nyv327u.ipfs.nftstorage.link/?ext=svg",
-         "website": "https://PurpleZone.github.io/NFTs/CFS/"
+         "imageUrl": "https://bafybeihzytflskhwiwzxhwndx5xf6fspckcsf7p3h7sosrs47vly2fbl7i.ipfs.nftstorage.link/?ext=svg",
+         "website": "https://PurpleZone.github.io/NFTs/grassroot/"
       }
     }
